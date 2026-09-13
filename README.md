@@ -16,8 +16,7 @@ An AI-powered text summarization application built using Python, Hugging Face an
 - **Hugging Face**
 - **DistilBART**
 - **Gradio**
-- **REST API / HTTP**
-- **python-dotenv**
+- **API**
 
 ## How It Works
 
